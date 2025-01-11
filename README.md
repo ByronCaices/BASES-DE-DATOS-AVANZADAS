@@ -93,11 +93,11 @@ This will start the PostgreSQL and MongoDB databases along with PgAdmin for mana
 
 ## Development Team
 
-| [Sebastian Cassone](https://github.com/sebacassone/) | [Byron Caices](https://github.com/ByronCaices) | [Benjamin Bustamante](https://github.com/benbuselola) | [Bastián Brito](https://github.com/PerroWachooo) |
-| ---------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------ |
-|                                                      |                                                |                                                       |                                                  |
+| [Sebastian Cassone](https://github.com/sebacassone/)                    | [Byron Caices](https://github.com/ByronCaices)                          | [Benjamin Bustamante](https://github.com/benbuselola)                   | [Bastián Brito](https://github.com/PerroWachooo)                         |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <img src="https://github.com/sebacassone.png" width="100" height="100"> | <img src="https://github.com/ByronCaices.png" width="100" height="100"> | <img src="https://github.com/benbuselola.png" width="100" height="100"> | <img src="https://github.com/PerroWachooo.png" width="100" height="100"> |
 
-| [Andrea Cosio](https://github.com/PerroWachooo) | [Isidora Oyanedel](https://github.com/IsisIOo) | [Tomás Riffo](https://github.com/Ovejazo) |
-| ----------------------------------------------- | ---------------------------------------------- | ----------------------------------------- |
-|                                                 |                                                |                                           |
+| [Andrea Cosio](https://github.com/PerroWachooo)                          | [Isidora Oyanedel](https://github.com/IsisIOo)                      | [Tomás Riffo](https://github.com/Ovejazo)                           |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <img src="https://github.com/PerroWachooo.png" width="100" height="100"> | <img src="https://github.com/Ovejazo.png" width="100" height="100"> | <img src="https://github.com/Ovejazo.png" width="100" height="100"> |
 
