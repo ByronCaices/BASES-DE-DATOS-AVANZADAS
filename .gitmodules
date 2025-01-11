@@ -1,0 +1,21 @@
+[submodule "tbd-ctrl2-backend"]
+	path = tbd-ctrl2-backend
+	url = https://github.com/ByronCaices/tbd-ctrl2-backend
+[submodule "tbd-ctrl2-frontend"]
+	path = tbd-ctrl2-frontend
+	url = https://github.com/ByronCaices/tbd-ctrl2-frontend
+[submodule "tbd-lab1-backend"]
+	path = tbd-lab1-backend
+	url = https://github.com/ByronCaices/tbd-lab1-backend
+[submodule "tbd-lab1-frontend"]
+	path = tbd-lab1-frontend
+	url = https://github.com/ByronCaices/tbd-lab1-frontend
+[submodule "tbd-lab2-backend"]
+	path = tbd-lab2-backend
+	url = https://github.com/ByronCaices/tbd-lab2-backend
+[submodule "tbd-lab3-backend"]
+	path = tbd-lab3-backend
+	url = https://github.com/ByronCaices/tbd-lab3-backend
+[submodule "tbd-lab3-frontend"]
+	path = tbd-lab3-frontend
+	url = https://github.com/ByronCaices/tbd-lab3-frontend
