@@ -1,0 +1,14 @@
+aviso: Comandos utilizados en SO windows10 - postgresql version 12
+
+# 1. Crear la estructura de la base de datos
+psql -U postgres -f dbCreate.sql
+
+# 2. Cargar los datos iniciales en la base de datos
+psql -U postgres -d airlinedb -f loadData.sql
+
+# 3. Ejecutar las consultas SQL para obtener reportes y análisis
+psql -U postgres -d airlinedb -f runStatements.sql
+
+(Opcional) Salida de Resultados: Al ejecutar runStatements.sql, los resultados de las consultas se mostrarán en la terminal parcialmente. podemos facilitar la visualización con:
+
+psql -U postgres -d airlinedb -f runStatements.sql > resultados_consultas.txt
